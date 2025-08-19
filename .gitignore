@@ -1,0 +1,15 @@
+dataset*
+ckpt/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+
+fg.py
+plot.py
+train_cluster.py
+sam.py
